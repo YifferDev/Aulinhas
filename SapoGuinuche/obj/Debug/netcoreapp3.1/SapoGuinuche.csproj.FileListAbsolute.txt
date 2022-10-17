@@ -1,0 +1,14 @@
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.exe
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.deps.json
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.runtimeconfig.json
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.runtimeconfig.dev.json
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.dll
+E:\DS\SapoGuinuche\SapoGuinuche\bin\Debug\netcoreapp3.1\SapoGuinuche.pdb
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.csproj.AssemblyReference.cache
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.GeneratedMSBuildEditorConfig.editorconfig
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.AssemblyInfoInputs.cache
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.AssemblyInfo.cs
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.csproj.CoreCompileInputs.cache
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.dll
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.pdb
+E:\DS\SapoGuinuche\SapoGuinuche\obj\Debug\netcoreapp3.1\SapoGuinuche.genruntimeconfig.cache
