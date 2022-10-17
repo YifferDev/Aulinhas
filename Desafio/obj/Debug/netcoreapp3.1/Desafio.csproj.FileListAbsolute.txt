@@ -1,0 +1,13 @@
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\aluno\source\repos\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\aluno\source\repos\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
