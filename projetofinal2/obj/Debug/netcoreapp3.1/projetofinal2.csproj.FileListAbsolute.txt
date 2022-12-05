@@ -1,0 +1,13 @@
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.exe
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.deps.json
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.runtimeconfig.json
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.dll
+C:\Users\Usuario\Downloads\projetofinal2\bin\Debug\netcoreapp3.1\projetofinal2.pdb
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.dll
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.pdb
+C:\Users\Usuario\Downloads\projetofinal2\obj\Debug\netcoreapp3.1\projetofinal2.genruntimeconfig.cache
